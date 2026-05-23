@@ -1,0 +1,4 @@
+-Xmx1975m
+-Dide.managed.by.toolbox=/home/cishocksr/Downloads/jetbrains-toolbox-3.4.3.81140/bin/jetbrains-toolbox
+-Dtoolbox.notification.token=c5537294-c323-47b1-b1aa-1987778ffafd
+-Dtoolbox.notification.portFile=/home/cishocksr/.cache/JetBrains/Toolbox/ports/19d9cfe4-8ead-4a2b-b349-3c22ee98f741.port

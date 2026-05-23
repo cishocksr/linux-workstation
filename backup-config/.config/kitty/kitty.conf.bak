@@ -1,0 +1,39 @@
+# Font
+font_family JetBrainsMono Nerd Font
+font_size 14.0
+
+# Background
+background_opacity 0.95
+
+# Cursor
+cursor_shape block 
+cursor_blink_interval 0
+
+# Scrollback
+scrollback_lines 10000
+
+# Window padding
+window_padding-width 8
+
+# Tabs
+tab_bar_edge top
+
+# Enable Ligatures
+disable_ligatures never
+
+# Mouse
+copy_on_select yes
+
+# Performance
+repaint_delay 10
+input_delay 3
+sync_to_monitor yes
+
+# Bell
+enable_audio_bell no
+
+# Confirm close
+confirm_os_window_close 0
+
+# Shell
+shell zsh
